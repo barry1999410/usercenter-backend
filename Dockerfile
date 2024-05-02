@@ -8,7 +8,7 @@ COPY src ./src
 
 # Build a release artifact.
 
-COPY /target/userCenter-1.0-SNAPSHOT.jar ./
+RUN mvn package -DskipTests -T 2
 
 # Run the web service on container startup.
 CMD ["java","-jar","/app/target/userCenter-1.0-SNAPSHOT.jar","--spring.profiles.active=prod"]
