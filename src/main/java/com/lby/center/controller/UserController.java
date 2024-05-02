@@ -34,7 +34,6 @@ public class UserController {
         String checkPassword = registerRequest.getCheckPassword();
         String planetCode = registerRequest.getPlanetCode();
 
-        if (StringUtils.isAnyBlank(userAccount,userPassword,checkPassword,planetCode));
 
         long l = userService.userRegister(userAccount, userPassword, checkPassword, planetCode);
 

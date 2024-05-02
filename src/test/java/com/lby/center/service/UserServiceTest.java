@@ -1,6 +1,6 @@
 package com.lby.center.service;
 
-import com.lby.applicationContext;
+import com.lby.ApplicationContext;
 import com.lby.center.model.domain.User;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import javax.annotation.Resource;
 
-@SpringBootTest(classes = applicationContext.class)
+@SpringBootTest(classes = ApplicationContext.class)
 @RunWith(SpringRunner.class)
 public class UserServiceTest {
 
