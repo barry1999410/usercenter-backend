@@ -1,0 +1,18 @@
+
+
+java:S1192Y"JUse already-defined constant 'salt' instead of duplicating its value here.(æŒ½Ö8ş®À™ó1J$8fdf1c89-779b-41ea-8819-1343f1d40324
+¡
+java:S1488_"YImmediately return this expression instead of assigning it to the temporary variable "i".(›äƒ‰ùÿÿÿÿ8ÿ®À™ó1J$66771d48-1182-45a0-a4b4-bcf1bd460cc1
+¡	java:S115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ûÿ£èúÿÿÿÿ8¯À™ó1J$f5b2d74b-b35b-4f94-87ea-a0c8f70ca51d
+r
+java:S5869?"*Remove duplicates in this character class.(¥›–¶øÿÿÿÿ8“¯À™ó1J$ddb85206-87b0-4ae7-bf17-f09bd3ca9128
+}
+java:S6397?"5Replace this character class by the character itself.(¥›–¶øÿÿÿÿ8“¯À™ó1J$747bb372-f0c3-4d6c-87ed-f5f26968fea8
+{
+java:S1117Y"8Rename "salt" which hides the field declared at line 42.(æŒ½Ö8”¯À™ó1J$cebfc99e-578e-43cb-97d7-c2f94bfbee8a
+r
+java:S5869u"*Remove duplicates in this character class.(¥›–¶øÿÿÿÿ8—¯À™ó1J$9c7f740e-d3d2-4c78-a852-1e63058ac245
+}
+java:S6397u"5Replace this character class by the character itself.(¥›–¶øÿÿÿÿ8—¯À™ó1J$d0152bec-ba9e-4e84-b502-f76fc6fe0590
+
+java:S1612–"=Replace this lambda with method reference 'this::filterRole'.(µ‚ŒÏ8š¯À™ó1J$8374861d-ee09-4300-beb3-ca62ff2a6421
