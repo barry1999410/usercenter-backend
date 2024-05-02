@@ -119,3 +119,6 @@ Q.idea/sonarlint/securityhotspotstore/d/f/df85d52bbe7a76215135f9d4f3fd9025e45c7f
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+:
+
+Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
