@@ -1,18 +1,18 @@
 
 
-java:S1192Y"JUse already-defined constant 'salt' instead of duplicating its value here.(æŒ½Ö8ş®À™ó1J$32a26a22-1a3c-45dc-8267-fdda8612a04b
+java:S1192Y"JUse already-defined constant 'salt' instead of duplicating its value here.(æŒ½Ö8ş®À™ó1J$0b132e28-06da-4641-a7f7-2585eb1071a1
 ¡
-java:S1488_"YImmediately return this expression instead of assigning it to the temporary variable "i".(›äƒ‰ùÿÿÿÿ8ÿ®À™ó1J$0a27b23f-49df-427d-a554-a5fb462ff202
-¡	java:S115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ûÿ£èúÿÿÿÿ8¯À™ó1J$adc0b72c-76a0-4231-89ef-9548b1617803
+java:S1488_"YImmediately return this expression instead of assigning it to the temporary variable "i".(›äƒ‰ùÿÿÿÿ8ÿ®À™ó1J$12c40c3d-e811-400c-ba38-da76a5cf3141
+¡	java:S115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ûÿ£èúÿÿÿÿ8¯À™ó1J$89f8a672-efe7-471b-978f-37d7411fa021
 r
-java:S5869?"*Remove duplicates in this character class.(¥›–¶øÿÿÿÿ8“¯À™ó1J$243b961a-e61b-447e-8e9f-ab473fa47a82
+java:S5869?"*Remove duplicates in this character class.(¥›–¶øÿÿÿÿ8“¯À™ó1J$453ab580-17a8-4000-98f7-e77027c234e4
 }
-java:S6397?"5Replace this character class by the character itself.(¥›–¶øÿÿÿÿ8“¯À™ó1J$4b388be5-d5ed-4377-9044-32a764c621ef
+java:S6397?"5Replace this character class by the character itself.(¥›–¶øÿÿÿÿ8“¯À™ó1J$01cd9e8f-2c69-40e4-a60f-6fea9cb50a7e
 {
-java:S1117Y"8Rename "salt" which hides the field declared at line 42.(æŒ½Ö8”¯À™ó1J$ef165156-436d-4997-b430-e6d22602319e
+java:S1117Y"8Rename "salt" which hides the field declared at line 42.(æŒ½Ö8”¯À™ó1J$45016d04-3bc0-4ac0-a2dc-7188810d87f4
 r
-java:S5869u"*Remove duplicates in this character class.(¥›–¶øÿÿÿÿ8—¯À™ó1J$af6f3af4-e1e0-415a-b11f-222f29ecefcb
+java:S5869u"*Remove duplicates in this character class.(¥›–¶øÿÿÿÿ8—¯À™ó1J$1b1f8e40-02b1-45f2-adf2-f7e0c2c5d6f2
 }
-java:S6397u"5Replace this character class by the character itself.(¥›–¶øÿÿÿÿ8—¯À™ó1J$20c3d911-bfef-4af9-9788-9d5a0f546903
+java:S6397u"5Replace this character class by the character itself.(¥›–¶øÿÿÿÿ8—¯À™ó1J$da467c61-fe43-42de-8629-5d4cedf90229
 
-java:S1612–"=Replace this lambda with method reference 'this::filterRole'.(µ‚ŒÏ8»Û‚Áó1J$5fd9d0ec-6dda-4770-81f1-9912936ad8dd
+java:S1612–"=Replace this lambda with method reference 'this::filterRole'.(µ‚ŒÏ8»Û‚Áó1J$501d424c-0384-4da7-aa38-e63f20634155
