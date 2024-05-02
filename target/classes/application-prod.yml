@@ -1,9 +1,0 @@
-spring:
-  datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://119.27.172.106:3306/usercenter
-    username: root
-    password: root
-
-
-
